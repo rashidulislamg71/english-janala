@@ -14,3 +14,8 @@ body{
 .primary-color{
     color: rgb(66, 165, 245);
 }
+
+.active{
+    color: white;
+    background: rgb(66, 42, 213);
+}
